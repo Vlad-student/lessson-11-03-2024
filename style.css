@@ -1,0 +1,13 @@
+.table-project th {
+    color:  rgb(0, 84, 168);
+    background-color: rgb(234, 236, 240);
+}
+.table-project td {
+background-color: rgb(248, 249, 250);
+}
+td,th{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+}
